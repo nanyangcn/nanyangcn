@@ -1,7 +1,6 @@
 <h1>Hi there</h1>
 
-<p>I'm <strong>Yang Nan</strong> 👋, currently living in 🇫🇮<strong>Espoo, Finland</strong>.</p>
-<p>I'm a Full-Stack Web Developer actively seeking new job opportunities.</p>
+<p>I'm <strong>Yang Nan</strong> 👋, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197585.png" width="13" /><strong>Espoo, Finland</strong>.</br> I'm a Full-Stack Web Developer actively seeking new job opportunities.</p>
 
 <p>🌐 Check out my <a href="https://portfolio-nanyangcn.vercel.app/">Portfolio Website</a> to see my latest projects.</p>
 <p>🎯 I'm currently on the lookout for [Front-End/Back-End/Full-Stack] developer positions.</p>

@@ -1,15 +1,11 @@
 # Hi there
 
 I'm __Yang Nan__ 👋, curretly living in 🇫🇮__Espoo, Finland__.
-
 I'm a Full-Stack Web Developer actively seeking new job opportunities.
 
 🌐 Check out my [Portfolio Website](https://portfolio-nanyangcn.vercel.app/) to see my latest projects.
-
 🎯 I'm currently on the lookout for [Front-End/Back-End/Full-Stack] developer positions.
-
 👯 I'm open to collaborating on web development projects and eager to contribute to a dynamic team.
-
 💬 Ask me about front-end and back-end web development, or anything web-related.
 
 ## 💻 Technologies & Tools
